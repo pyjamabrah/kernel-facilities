@@ -1,3 +1,9 @@
+/*
+ * Copyright © 2025 pyjamabrah.com. All Rights Reserved.
+ * Author: Piyush Itankar <piyush@pyjamabrah.com>
+ *
+ */
+
 #include <linux/init.h>
 #include <linux/kernel.h>
 #include <linux/module.h>

@@ -1,6 +1,6 @@
 # Linux Kernel Facilities and Helper functions
 
-This repository is a sandbox environmen for the course on `Linux Kernel Facilities and Helper Functions`. 
+This repository is a sandbox environment for the course on `Linux Kernel Facilities and Helper Functions`. 
 
 The Linux kernel doesn't use the Standard C Library and implements the functions as it's own modern libraries. This course is focused on exploring the facilities and helper functions the kernel provides to manage data and different activities from the driver.
 
