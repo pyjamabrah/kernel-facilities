@@ -3,7 +3,7 @@
 # Author: Piyush Itankar <piyush@pyjamabrah.com>
 #
 
-FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04
+FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu
 
 ENV DEBIAN_FRONTEND=noninteractive
 
