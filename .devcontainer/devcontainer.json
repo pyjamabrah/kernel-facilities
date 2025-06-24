@@ -1,5 +1,4 @@
 {
-    "build": { "dockerfile": "Dockerfile"},
     "customizations": {
         "vscode": {
         "settings": {
